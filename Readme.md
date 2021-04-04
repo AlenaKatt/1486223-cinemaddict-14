@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Катт Елена](https://up.htmlacademy.ru/ecmascript/14/user/1486223).
-* Наставник: `Неизвестно`.
+* Наставник: [Глазков Сергей](https://htmlacademy.ru/profile/id1194253).
 
 ---
 
